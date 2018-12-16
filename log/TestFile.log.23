@@ -1,0 +1,58 @@
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler <init>
+INFO: MyLog
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler respond
+INFO: Response: 
+HTTP/1.0 404 Not Found
+Connection: close
+Content-Length: 116
+
+<html><head><title>HTTP/1.0 404 Not Found
+</title></head><body><p><b>HTTP/1.0 404 Not Found
+</b></p></body></html>
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler <init>
+INFO: MyLog
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler respond
+INFO: Response: 
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 132
+
+<html> <head><title>Review Search</title></head><body><table style='width:100%'><tr><th>parameter is invalid</th></tr></body></html>
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler <init>
+INFO: MyLog
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler respond
+INFO: Response: 
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 128
+
+<html> <head><title>Review Search</title></head><body><table style='width:100%'><tr><th>no results found</th></tr></body></html>
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler <init>
+INFO: MyLog
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler respond
+INFO: Response: 
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 128
+
+<html> <head><title>Review Search</title></head><body><table style='width:100%'><tr><th>no results found</th></tr></body></html>
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler <init>
+INFO: MyLog
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler respond
+INFO: Response: 
+HTTP/1.0 200 OK
+Connection: close
+Content-Length: 239
+
+<html> <head><title>Review Search</title></head><body><form enctype='application/x-www-form-urlencoded' action='/reviewsearch' method='post' >Query: <input type='text' name='query'/><input type='submit' name='submit'/></form></body></html>
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler <init>
+INFO: MyLog
+Nov 07, 2018 2:44:13 AM cs601.project3.HTTPResponseHandler respond
+INFO: Response: 
+HTTP/1.0 404 Not Found
+Connection: close
+Content-Length: 116
+
+<html><head><title>HTTP/1.0 404 Not Found
+</title></head><body><p><b>HTTP/1.0 404 Not Found
+</b></p></body></html>
